@@ -1,0 +1,3 @@
+numOfsubBasin 1
+nodata_value -9999 
+18.33 1.0 0 1

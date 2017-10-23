@@ -1,0 +1,27 @@
+
+syntax: regexp
+\.csv$
+syntax: regexp
+\.log$
+syntax: regexp
+\.eclipse-pmd$
+syntax: regexp
+\.pmd$
+syntax: regexp
+^\.project$
+syntax: regexp
+^\.settings$
+syntax: regexp
+^execute_log_files$
+syntax: regexp
+^bin$
+syntax: regexp
+^execute_log_files$
+syntax: regexp
+^reports$
+syntax: regexp
+^res/data/city/cityThetaLQE\.txt$
+syntax: regexp
+^res/data/farmer/farmerThetaLQE\.txt$
+syntax: regexp
+^res/data/scenarioID\.txt$
